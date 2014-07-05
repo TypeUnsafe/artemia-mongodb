@@ -1,5 +1,5 @@
 /sandbox/*
 /target/*
 /.idea/*
-
+/jars/*
 *.iml
