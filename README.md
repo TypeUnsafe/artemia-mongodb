@@ -22,13 +22,13 @@ Create a `.bowerrc` file at the root of the project with this content:
 
 Create a `bower.json` file (or update dependencies) at the root of the project with this content:
 
-{
-  "name": "your_project_name",
-  "version": "0.0.0",
-  "dependencies": {
-    "artemia" : "TypeUnsafe/artemia#master"
-  }
-}
+    {
+      "name": "your_project_name",
+      "version": "0.0.0",
+      "dependencies": {
+        "artemia" : "TypeUnsafe/artemia#master"
+      }
+    }
 
 Type `bower install`
 
