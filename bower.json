@@ -1,5 +1,11 @@
 {
   "name": "artemia",
   "version": "0.0.0",
-  "main": "artemia.golo"
+  "main": "artemia.golo",
+  "ignore": [
+    "*.md",
+    "main.golo"
+    ".gitignore"
+    "*.xml"
+  ]
 }
